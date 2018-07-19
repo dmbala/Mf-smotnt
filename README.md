@@ -13,7 +13,7 @@ master monitors and controls the workers.
 *    `UNIX tool Make` The syntax of Makeflow is similar to the popular UNIX tool Make. The Make rules are
 convenient in describing the job dependencies.
 
-<img src="https://raw.githubusercontent.com/t/master/Figs/MWFig.png" width="450px" height="350px" />
+<img src="https://github.com/dmbala/Mf-smotnt/blob/master/Figs/MWFig.png" width="450px" height="350px" />
 
 ## Steps 
 
