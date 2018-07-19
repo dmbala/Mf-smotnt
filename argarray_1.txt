@@ -1,0 +1,17 @@
+-Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 2586 -O exp1.gid.3189.YLR326W.seed.2586.osgJobID.21574 -p10
+-Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 1785 -O exp1.gid.3189.YLR326W.seed.1785.osgJobID.21575 -p10
+-Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 295 -O exp1.gid.3189.YLR326W.seed.295.osgJobID.21576 -p10
+-Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 157 -O exp1.gid.3189.YLR326W.seed.157.osgJobID.21577 -p10
+-Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 882 -O exp1.gid.3189.YLR326W.seed.882.osgJobID.21578 -p10
+-Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 512 -O exp1.gid.3189.YLR326W.seed.512.osgJobID.21579 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 1444 -O exp1.gid.3190.YLR327C.seed.1444.osgJobID.21590 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 284 -O exp1.gid.3190.YLR327C.seed.284.osgJobID.21591 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 2741 -O exp1.gid.3190.YLR327C.seed.2741.osgJobID.21592 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 2514 -O exp1.gid.3190.YLR327C.seed.2514.osgJobID.21593 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 972 -O exp1.gid.3190.YLR327C.seed.972.osgJobID.21594 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 1733 -O exp1.gid.3190.YLR327C.seed.1733.osgJobID.21595 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 2252 -O exp1.gid.3190.YLR327C.seed.2252.osgJobID.21596 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 2750 -O exp1.gid.3190.YLR327C.seed.2750.osgJobID.21597 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 572 -O exp1.gid.3190.YLR327C.seed.572.osgJobID.21598 -p10
+-Tt 43200 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3190_YLR327C_S.cer.mRNA.abndc.ini.syn.dec -s 971 -O exp1.gid.3190.YLR327C.seed.971.osgJobID.21599 -p10
+
