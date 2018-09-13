@@ -14,7 +14,7 @@ master monitors and controls the workers.
 convenient in describing the job dependencies.
 
 
-## Steps 
+## Steps on OSG
 
 Step 0: Keep all the relevant files in the work directory (argarray_1.txt, wrapper.sh, executable, input gene data, etc.)
 
@@ -35,3 +35,11 @@ There is a screen on:
 1 Socket in /var/run/screen/S-dbala.
  
   $ screen -X -S "2883478.pts-1.login02" quit
+
+## Steps on Amarel
+
+Similar to OSG set up except the following changes. 
+1) Add SLURM specific details in the header of makeflow file 
+2) While submitting the make file, provide slurm option -T slurm and --shared-fs / for filesystem
+
+
