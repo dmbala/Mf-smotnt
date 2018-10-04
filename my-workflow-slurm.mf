@@ -1,4 +1,5 @@
 BATCH_OPTIONS = -p oarc -n 1 -t 24:00:00 -J short-ex-mf -o slurm.%N.%j.out -e slurm.%N.%j.err
+BATCH_OPTIONS = -p p_shahlab_1,genetics_1,main -n 1 -t 72:00:00 -J exp1-amarel-mf -o ../output/%A.%a.out -e ../al_amarelLog/%A.%a.err
   
 exp1.gid.3189.YLR326W.seed.1785.osgJobID.21575 : truncated_S.cer.genom S.cer.tRNA ./exp1/3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec wrapper.sh SMOTNT_working_osg_static
       ./wrapper.sh -Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 1785 -O exp1.gid.3189.YLR326W.seed.1785.osgJobID.21575 -p10
