@@ -1,4 +1,7 @@
-  
+
+BATCH_OPTIONS = error = \$(cluster).\$(process).err\noutput=output\/\$(cluster).\$(process).out\nrequest_memory = 8G\nrequest_disk = 2G\nrequest_cpus = 1
+
+
 exp1.gid.3189.YLR326W.seed.1785.osgJobID.21575 : truncated_S.cer.genom S.cer.tRNA ./exp1/3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec wrapper.sh SMOTNT_working_osg_static
       ./wrapper.sh -Tt 39558 -Tb 1000 -R 200000 -t 3300000 -N 4839 -F truncated_S.cer.genom -C S.cer.tRNA -D 3189_YLR326W_S.cer.mRNA.abndc.ini.syn.dec -s 1785 -O exp1.gid.3189.YLR326W.seed.1785.osgJobID.21575 -p10
   
